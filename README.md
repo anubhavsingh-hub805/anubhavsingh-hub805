@@ -1,22 +1,18 @@
-<h1 align="center">Hi 👋, I'm Anubhav Singh</h1>
-<h3 align="center">Artificial Intelligence Aspirant</h3>
+# 💫 About Me:
+🎓 I'm currently studying Artificial Intelligence<br><br>🐍 Learning Python for programming, data analysis, and AI<br><br>🗄️ Learning SQL for working with databases and extracting insights<br><br>📊 Learning Excel for data analysis and visualization<br><br>📈 Learning Power BI for dashboards and business intelligence<br><br>📐 Building a strong foundation in Statistics<br><br>🤖 Exploring Artificial Intelligence & Machine Learning<br><br>💡 Interested in turning data into meaningful insights<br><br>📚 Continuously learning and improving my technical skills<br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavsingh-hub805&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavsingh-hub805" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhavsingh-hub805" alt="anubhavsingh-hub805" /></a> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anubhav-singh-41307143a) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Anubhav Singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:officialanubhavsingh08@gmail.com) 
 
-- 👨‍💻 All of my projects are available at [https://github.com/anubhavsingh-hub805](https://github.com/anubhavsingh-hub805)
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=anubhavsingh-hub805&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=anubhavsingh-hub805&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=anubhavsingh-hub805&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 📫 How to reach me **officialanubhavsingh08@gmail.com**
+---
+[![](https://komarev.com/ghpvc/?username=anubhavsingh-hub805&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/anubhav-singh-41307143a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anubhav-singh-41307143a" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhavsingh-hub805&show_icons=true&locale=en&layout=compact" alt="anubhavsingh-hub805" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhavsingh-hub805&show_icons=true&locale=en" alt="anubhavsingh-hub805" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
